@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "security.ignore",
+      "type": "com.ck.mybatis.demo.config.IgnoreWhiteProperties",
+      "sourceType": "com.ck.mybatis.demo.config.IgnoreWhiteProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "security.ignore.whites",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.ck.mybatis.demo.config.IgnoreWhiteProperties"
+    }
+  ],
+  "hints": []
+}
